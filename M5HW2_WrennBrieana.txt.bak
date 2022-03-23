@@ -1,0 +1,13 @@
+
+
+// Ask user to enter a number of seconds
+// 60 seconds = one minute 
+
+if # of seconds >= 60 then
+	display # of minutes in that many seconds 
+// 3,600 seconds = one hour 
+if # of seconds >= 3,600 then
+	display # of hours in that many seconds
+// 86,400 seconds = one day
+if # of seconds >= 86,4000 then 
+	display # of days in that many seconds
