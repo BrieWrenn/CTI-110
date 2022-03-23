@@ -1,0 +1,16 @@
+// Brieana Wrenn
+// M5HW1
+// 3/22/2022
+// Determines whether the date 6/10/60 is magic or not 
+
+// Enter the month
+Display 6/10/60
+
+// Determine whether the month times the day equals the year. 
+Display 6 * 10 = 60 
+
+if month * day = year then
+	display "the date is magic."
+if month * day != year then
+	display "the date is not magic."
+
